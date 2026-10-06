@@ -261,20 +261,3 @@ docker-compose.override.yml
 *.pt
 *.pth
 *.onnx
-models/
-checkpoints/
-
-# --------------------------------------------
-# 📊 DATA / EXPORTS
-# --------------------------------------------
-exports/
-*.csv.tmp
-*.xlsx.tmp
-
-# --------------------------------------------
-# 🔒 MISC
-# --------------------------------------------
-.cache/
-.parcel-cache/
-*.tgz
-*.gz.tmp
